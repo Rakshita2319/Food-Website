@@ -1,0 +1,25 @@
+/*BIG TABLETS*/
+@media only screen and (max-width: 1200px) {
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+}
+
+
+
+/*SMALL TABLETS*/
+@media only screen and (max-width: 1023px) {
+   
+}
+
+/*SMALL TABLETS*/
+@media only screen and (max-width: 767px) {
+   
+  }
+
+
+/*SMALL PHONES*/
+@media only screen and (max-width: 480px) {
+    
+}
